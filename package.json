@@ -1,0 +1,23 @@
+// information about the app
+{
+  "name": "week12hw-amazon-store-front",
+  "version": "1.0.0",
+  "description": "week12hw(amazon store front)",
+  "main": "BamazonManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahidc7101/week12hwAmazonStoreFront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahidc7101/week12hwAmazonStoreFront/issues"
+  },
+  "homepage": "https://github.com/wahidc7101/week12hwAmazonStoreFront#readme",
+  "dependencies": {
+    "sql": "^0.70.1"
+  }
+}
